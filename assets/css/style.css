@@ -1,0 +1,100 @@
+body {
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Lobster', sans-serif;
+}
+
+.navbar-expand-lg {
+    background: #373A3C;
+    font-family: 'Lobster', sans-serif; 
+    
+   
+}
+
+
+
+#navbarNav a {
+    font-family: 'Cabin', sans-serif;
+    
+}
+
+.titulopizza {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+    font-size: 49px;
+    color: #373A3C
+
+}
+
+.porciones {
+    color: #373A3C;
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+
+}
+
+.botoncorreo, .botonfavoritos {
+    color: #373A3C;
+    font-family: 'Cabin', sans-serif;
+    background-color: #fff;
+    border-color: #DDDDDD;
+    display: inline-block;
+    padding: 8px;
+    margin-top: 20px;
+    border-radius: 5px;
+    
+}
+
+.botoncorreo {
+    margin-right: 25px;
+}
+
+footer {
+    background-color: #373A3C;
+    font-family: 'Lobster', sans-serif;
+    font-size: 50px;
+    padding: 20px;
+}
+
+section {
+    background-color: #DC3545;
+    padding: 100px; 
+    margin-top: 50px;
+}
+
+section h2 {
+    font-size: 43px;
+    font-weight: 500
+}
+
+section h5 {
+    font-size: 30px;
+    font-weight: normal;
+    display: inline-block;
+    
+}
+
+section p {
+    font-size: 30px;
+    font-family: 'Lobster', sans-serif;
+    display: inline-block;
+    
+}
+
+.botonempezar {
+    background-color: transparent;
+    border-color: #DDDDDD;
+    color: #fff;
+    font-family: 'Cabin', sans-serif;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    
+
+}
+
+#comida {
+    font-family: 'Cabin', sans-serif;
+}
